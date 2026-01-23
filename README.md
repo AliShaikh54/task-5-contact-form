@@ -29,4 +29,9 @@ It ensures proper user input, accessibility, and a clean user interface.
 ---
 
 ## 📂 Project Structure
+task-5-contact-form/
+│
+├── index.html   # Contains the contact form structure and HTML5 validation
+├── style.css    # Handles styling and layout of the form
+└── README.md    # Project documentation
 
