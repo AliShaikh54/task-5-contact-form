@@ -2,13 +2,13 @@
 
 A basic contact form project demonstrating HTML5 client-side validation without JavaScript.
 
-## 📌 Project Overview
+## Project Overview
 This project is a simple and responsive **Contact Form** built using **HTML and CSS**, focusing on **HTML5 client-side form validation** without using JavaScript.  
 It ensures proper user input, accessibility, and a clean user interface.
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - HTML5  
 - CSS3  
 - VS Code  
@@ -16,7 +16,7 @@ It ensures proper user input, accessibility, and a clean user interface.
 
 ---
 
-## ✨ Features
+## Features
 - Client-side validation using HTML5
 - Required field validation
 - Email validation using `type="email"`
